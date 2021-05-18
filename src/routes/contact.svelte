@@ -6,7 +6,8 @@
     message = '',
     showToast = false;
   function formSubmitHandler() {
-    console.log({ name, email, message });
+    //console.log({ name, email, message });
+    window.dataLayer.push({ event: 'contactFormSubmitted' });
     showToast = true;
     setTimeout(function () {
       showToast = false;
