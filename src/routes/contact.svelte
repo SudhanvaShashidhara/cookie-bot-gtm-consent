@@ -241,7 +241,7 @@
 
 <style>
   #toast {
-    bottom: 20px;
+    bottom: 40px;
     right: 40px;
   }
 </style>

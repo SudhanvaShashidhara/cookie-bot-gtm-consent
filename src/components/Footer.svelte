@@ -166,7 +166,9 @@
         </h2>
         <nav class="list-none mb-10">
           <li>
-            <a href="." class="text-gray-600 hover:text-gray-800">First Link</a>
+            <a href="privacy-policy" class="text-gray-600 hover:text-gray-800"
+              >Privacy Policy</a
+            >
           </li>
           <li>
             <a href="." class="text-gray-600 hover:text-gray-800">Second Link</a
