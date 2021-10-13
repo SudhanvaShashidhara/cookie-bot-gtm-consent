@@ -153,6 +153,7 @@
 				rounded
 				text-lg
 			  "
+        type="submit"
           >
             SUBMIT
           </button>
