@@ -221,6 +221,7 @@ Add the correct display in Chrome and Safari.
  */
 
 
+dl,
 h1,
 h2,
 p,
@@ -396,7 +397,8 @@ pre {
  */
 
 img,
-svg {
+svg,
+iframe {
   display: block;
   vertical-align: middle;
 }
