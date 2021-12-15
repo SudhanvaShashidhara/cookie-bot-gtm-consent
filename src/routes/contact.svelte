@@ -1,5 +1,13 @@
 <script>
   import { fade } from 'svelte/transition';
+  import { onMount } from 'svelte';
+
+  onMount(() => {
+//     window.gtag('config', 'G-YLB69YV8PZ', {
+//   'page_title' : 'Contact Page',
+//   'page_path': '/contact'
+// });
+  })
 
   let name = '',
     email = '',
